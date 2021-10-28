@@ -27,6 +27,5 @@ int main() {
   human_years = early_years + later_years;
   //end output
   std::cout << "My name is " << dog_name <<"! Ruff ruff, I am " << human_years << " years old in human years.";
-
   
 }
